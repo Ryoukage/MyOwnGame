@@ -1,0 +1,5 @@
+﻿  Map.cpp
+R:\C\Game\Sink Ship\Sink Ship\Sink Ship\Map.cpp(191): warning C4715: 'Map::EditGlobalGeneral': not all control paths return a value
+R:\C\Game\Sink Ship\Sink Ship\Sink Ship\Map.cpp(126): warning C4715: 'Map::PointToHitEnemy': not all control paths return a value
+R:\C\Game\Sink Ship\Sink Ship\Sink Ship\Map.cpp(158): warning C4715: 'Map::PointToHitPlayer': not all control paths return a value
+  Sink Ship.vcxproj -> R:\C\Game\Sink Ship\Sink Ship\Debug\Sink Ship.exe
